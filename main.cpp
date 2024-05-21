@@ -258,4 +258,5 @@ cout<<"Invalid input"<<endl;
 break;
 }
 }
+  return 0;
 }
