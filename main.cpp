@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string.h>
 using namespace std;
 string roll_no[100],name[100],Class[100],course[100],mobile_no[100],admission_year[100];
 
