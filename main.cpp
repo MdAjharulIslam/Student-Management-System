@@ -207,16 +207,23 @@ int value;
 while(true)
 {
 cout<<"\nPress 1 to Enter data"<<endl<<endl;
+cout<<"..........................."<<endl;  
 
 cout<<"Press 2 to Show data"<<endl<<endl;
-
+cout<<"..........................."<<endl;  
+  
 cout<<"Press 3 to Search data"<<endl<<endl;
-
+cout<<"..........................."<<endl;  
+  
 cout<<"Press 4 to Update data"<<endl<<endl;
-
+cout<<"..........................."<<endl;  
+  
 cout<<"Press 5 to Delete data"<<endl<<endl;
-
+cout<<"..........................."<<endl;  
+  
 cout<<"Press 6 to Quit"<<endl<<endl;
+cout<<"..........................."<<endl;  
+  
 cin>>value;
 
 switch(value)
